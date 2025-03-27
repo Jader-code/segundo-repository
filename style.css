@@ -6,7 +6,7 @@ body {
     background-color: rgb(214, 177, 28);
 }
 
-.estundate-div {
+.estudante-div {
     text-align: center;
     padding: 50px 0;
 }
@@ -17,7 +17,7 @@ body {
 }
 
 .estudante-imagem {
-    width: 65%;              /*cuidado com SEU tamanho*/
+    width: 30%;              /*cuidado com SEU tamanho*/
 }
 
 
