@@ -1,10 +1,25 @@
 header {
-    background-color: aqua;
+    background-color: rgb(125, 164, 125);
 }
 
 body {
-    background-color: coral;
+    background-color: rgb(214, 177, 28);
 }
+
+.estundate-div {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante-titulo {
+    text-align: center;
+    padding: 16px 0;
+}
+
+.estudante-imagem {
+    width: 65%;              /*cuidado com SEU tamanho*/
+}
+
 
 footer {
     background-color: darkgrey;
