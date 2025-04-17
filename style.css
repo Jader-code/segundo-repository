@@ -1,28 +1,29 @@
 header {
-    background-color: rgb(125, 164, 125);
+    background-color: aqua;
 }
 
 body {
-    background-color: rgb(214, 177, 28);
+    background-color: bisque;
 }
 
 .estudante-div {
     text-align: center;
-    padding: 50px 0;
+    padding: 16px 0;
 }
 
 .estudante-titulo {
     text-align: center;
-    padding: 11px 0;
+    padding: 16px 0;
 }
 
 .estudante-imagem {
-    width: 30%;              /*cuidado com SEU tamanho*/
+    width: 30%;       /* cuidado com SEU tamanho */
 }
 
-.estudante-ícone {
+.estudante-icone {
     width: 50px;
     padding: 4px 8px;
+    list-style-type: none;
 }
 
 h1, h2, h3 {
@@ -31,11 +32,11 @@ h1, h2, h3 {
 }
 
 a:hover {
-    color: red;
+    color: #e80a0a;
 }
 
 footer {
-    background-color: darkgrey;
+    background-color: chartreuse;
 }
 
 .rodape {
